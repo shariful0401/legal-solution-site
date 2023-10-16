@@ -1,0 +1,29 @@
+
+
+.buttons{
+  background-color: #B68C5A;
+  padding: 10px 15px;
+  border-radius:5px;
+  border: none;
+}
+.banner{
+  background: url('../images/banner.png');
+  height: 500px;
+  width: 100%;
+}
+.input-field{
+  padding: 10px 50px;
+  border: none;
+  border-radius: 5px;
+}
+.section-container{
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 100px;
+}
+@media screen and (max-width:576px) {
+  .section-container{
+    padding: 50px 10px 50px 50px;
+  }
+  
+}
